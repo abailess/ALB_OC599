@@ -1,0 +1,19 @@
+#rada rada rada 
+
+#Mac sys files
+.DS_Store
+
+#Python checkpoints 
+.pynb_checkpoints
+
+#Figs
+*.pdf
+*.tiff
+
+#Datafiles
+*.csv
+*.nc
+
+#Sensetive files
+All_my_passwords.txt
+
